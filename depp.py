@@ -105,4 +105,3 @@ print(e.ravel()[e.argmax()])
 print(e)
 print(np.unravel_index(e.argmax(), e.shape))
 print(e[np.unravel_index(e.argmax(), e.shape)])
-#ada
