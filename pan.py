@@ -12,3 +12,4 @@ print('Ventas con descuento\n', ventas*0.9)
 notas={}
 n_cursos=int(input("escriba la cantidad de cursos"))
 #for i in range(1,n_cursos+1):
+#·
